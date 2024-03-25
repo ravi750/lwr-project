@@ -4,6 +4,7 @@
         {
             "id": "example",
             "path": "/",
+            "layoutTemplate":"$layoutsDir/main.html",
             "rootComponent": "example/app"
         }
     ],
